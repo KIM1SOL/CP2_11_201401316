@@ -2,7 +2,6 @@
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int number = 5;
 		NumberOfFork fork_num = new NumberOfFork(number);
 		
